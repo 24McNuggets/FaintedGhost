@@ -1,0 +1,16 @@
+[
+{
+  "modid": faintedclient
+  "name": "Fainted Client",
+  "description": "Fainted §aClient - Hope You Enjoy!",
+  "version": "b1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["invalid user", "S3XY"],
+  "credits": "The Authors, and SebSB for the guides!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
