@@ -1,0 +1,50 @@
+[08:01:42] [Client thread/INFO]: Setting user: Player256
+[08:01:47] [Client thread/INFO]: LWJGL Version: 2.9.4
+[08:01:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:faintedclient
+[08:02:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[08:02:00] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[08:02:00] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:02:00] [Thread-9/INFO]: OpenAL initialized.
+[08:02:00] [Sound Library Loader/INFO]: Sound engine started
+[08:02:15] [Client thread/INFO]: Created: 16x16 textures-atlas
+[08:02:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:faintedclient
+[08:02:18] [Client thread/INFO]: SoundSystem shutting down...
+[08:02:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[08:02:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[08:02:18] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[08:02:18] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:02:18] [Thread-11/INFO]: OpenAL initialized.
+[08:02:18] [Sound Library Loader/INFO]: Sound engine started
+[08:02:30] [Client thread/INFO]: Created: 512x512 textures-atlas
+[08:04:16] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[08:04:16] [Server thread/INFO]: Generating keypair
+[08:04:16] [Server thread/INFO]: Preparing start region for level 0
+[08:04:17] [Server thread/INFO]: Preparing spawn area: 26%
+[08:04:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:04:20] [Server thread/INFO]: Player256[local:E:6a4bca84] logged in with entity id 268 at (-87.87638612785042, 4.0, -319.0741744042675)
+[08:04:20] [Server thread/INFO]: Player256 joined the game
+[08:04:24] [Server thread/INFO]: Player256 has just earned the achievement [Taking Inventory]
+[08:04:24] [Client thread/INFO]: [CHAT] Player256 has just earned the achievement [Taking Inventory]
+[08:05:51] [Client thread/INFO]: [CHAT] survival, creative, adventure, spectator
+[08:05:52] [Client thread/INFO]: [CHAT] survival, creative, adventure, spectator
+[08:05:53] [Server thread/INFO]: [Player256: Set own game mode to Creative Mode]
+[08:05:53] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:06:10] [Server thread/INFO]: [Player256: Set own game mode to Survival Mode]
+[08:06:10] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:06:25] [Client thread/INFO]: [CHAT] survival, creative, adventure, spectator
+[08:06:25] [Client thread/INFO]: [CHAT] survival, creative, adventure, spectator
+[08:06:25] [Server thread/INFO]: [Player256: Set own game mode to Creative Mode]
+[08:06:25] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:06:33] [Client thread/INFO]: Stopping!
+[08:06:33] [Client thread/INFO]: SoundSystem shutting down...
+[08:06:33] [Server thread/INFO]: Stopping server
+[08:06:33] [Server thread/INFO]: Saving players
+[08:06:33] [Server thread/INFO]: Saving worlds
+[08:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:06:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[08:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:06:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:06:33] [Client Shutdown Thread/INFO]: Stopping server
+[08:06:33] [Client Shutdown Thread/INFO]: Saving players
+[08:06:33] [Client Shutdown Thread/INFO]: Saving worlds
+[08:06:33] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
